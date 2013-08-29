@@ -1,0 +1,1 @@
+<p>Your account has been activated, you can now log to your member space</p>
