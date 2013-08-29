@@ -1,11 +1,8 @@
 <?php
-//require the general classes
 session_start();
 require("classes/loader.php");
 require("classes/basecontroller.php");
 require("classes/basemodel.php");
-//require("classes/basemodel.php");
-//require the model classes
 if(!isset($_GET['mode']))$mode="home";
 else $mode=$_GET['mode'];
 
